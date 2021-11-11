@@ -7,4 +7,4 @@
 
 ### Support or Contact
 
-Send email to [prof.liwei@gmail.com](prof.liwei@gmail.com).
+Send email to [prof.liwei@gmail.com](mailto:prof.liwei@gmail.com).
