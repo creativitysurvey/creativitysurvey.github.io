@@ -1,10 +1,9 @@
-##### Creativity Search Algorithm
+# Creativity Search Algorithm
 
-You can use the [editor on GitHub](https://github.com/profliwei/profliwei.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Creativity Survey Papers
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+1. [版本17.docx](https://github.com/creativitysurvey/creativitysurvey.github.io/files/7519298/17.docx)
+2. [survey v300.docx](https://github.com/creativitysurvey/creativitysurvey.github.io/files/7519300/survey.v300.docx)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
