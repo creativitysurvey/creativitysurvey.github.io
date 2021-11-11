@@ -1,5 +1,7 @@
 # Creativity Search Algorithm
 
+# Lightweight CSA
+
 # Creativity Survey Papers
 
 1. [版本17.docx](https://github.com/creativitysurvey/creativitysurvey.github.io/files/7519298/17.docx)
