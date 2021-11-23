@@ -1,3 +1,6 @@
+<p>foo<br />
+baz</p>
+
 # Creativity Search Algorithm 
 # 创新搜索算法
 
