@@ -1,11 +1,9 @@
-# <p> Creativity Search Algorithm <br />
- 创新搜索算法</p>
+# <p> Creativity Search Algorithm <br/> 创新搜索算法</p>
 
 
 
 
-# Lightweight CSA 
-# 轻量级创新搜索算法
+# <p> Lightweight CSA <br/> 轻量级创新搜索算法 </p>
 
 # Creativity Survey Papers 创新综述论文
 # 创新综述论文
